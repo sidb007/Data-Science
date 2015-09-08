@@ -1,0 +1,3 @@
+As per the initial analysis, decision tree algorithm will work for both Music and Education Data. This is because decision trees split the data on basis of information gain of the output variable with respect to the independent variable. Since all input variables have lesser arity (<3) decision trees will work 
+In both the datasets, there are very very few conflicting data-points which may inhibit the decision trees usage in other cases and not in this.  Hence, it is safe to assume that the decision tree will work with both datasets.
+

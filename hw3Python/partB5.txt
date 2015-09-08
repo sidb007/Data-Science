@@ -1,0 +1,4 @@
+In this model, the resulting array of hypothesis give a 50% categorization of the testing sample.
+This is for all the testing data.
+This gives us a clear idea that the voting method is not a feasible idea to decide on the categorization 
+of the testing sample.

@@ -1,0 +1,5 @@
+Did you receive any help whomsoever from anyone in solving this assignment? 
+* Yes. I discussed with Vivek Sharma about the List then Eliminate algorithm. We discussed the concept space and hypothesis space concepts with each other.
+Did you give any help whomsoever from anyone in solving this assignment? 
+* No
+

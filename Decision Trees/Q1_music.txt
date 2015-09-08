@@ -1,0 +1,3 @@
+MUSIC DATA:
+By my initial analysis, Jazz music is a good attribute which splits the HITS reducing the uncertainty highly.  
+Also, year is also an attribute which reduces the uncertainty about the HITS. HITS before 1950 are much higher than after 1950. 

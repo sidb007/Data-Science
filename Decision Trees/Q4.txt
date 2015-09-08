@@ -1,0 +1,10 @@
+Music dataset is more accurate on both the Training and testing data
+
+According to the decision tree, 
+
+
+DatasetTraining ErrorTesting ErrorMusic0.090.1Education0.1950.23
+
+
+ 
+

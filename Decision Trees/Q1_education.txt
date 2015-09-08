@@ -1,0 +1,3 @@
+EDUCATION DATA:
+In this dataset, if attribute F is used, it reduces the surprise about Final Grade. Hence, this attribute is useful in providing information about Final Grade. M1 and M2 are also important for splitting the dataset. 
+
